@@ -1,4 +1,4 @@
-# Writing down your note prject with react
+# Writing down your note-project with react
 
 
 ## Available Scripts
